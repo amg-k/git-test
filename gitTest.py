@@ -19,3 +19,12 @@ print("Area of circle is: ", circle_area_calc(8))
 print(return_random(1, 11))
 
 print(num_sum(81, 184))
+
+testDict = {
+    "user1" : "Adam",
+    "user2" : "Mike",
+    "user3" : "Jonathan",
+    "user4" : "Jane"
+}
+
+print(testDict["user2"])
