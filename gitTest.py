@@ -21,10 +21,10 @@ print(return_random(1, 11))
 print(num_sum(81, 184))
 
 testDict = {
-    user1 : "Adam",
-    user2 : "Mike",
-    user3 : "Jonathan",
-    user4 : "Jane"
+    "user1" : "Adam",
+    "user2" : "Mike",
+    "user3" : "Jonathan",
+    "user4" : "Jane"
 }
 
-print(testDict[user2]))
+print(testDict["user2"])
